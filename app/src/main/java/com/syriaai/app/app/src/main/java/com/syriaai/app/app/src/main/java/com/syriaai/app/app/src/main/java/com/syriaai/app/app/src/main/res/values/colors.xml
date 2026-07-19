@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E5631</color>
+    <color name="primary_dark">#123A20</color>
+    <color name="accent">#D4AF37</color>
+    <color name="background">#F7F7F5</color>
+    <color name="bubble_ai">#EFEFEC</color>
+    <color name="bubble_user">#1E5631</color>
+    <color name="text_dark">#1A1A1A</color>
+    <color name="white">#FFFFFF</color>
+</resources>
