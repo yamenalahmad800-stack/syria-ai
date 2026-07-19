@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Syria AI</string>
+    <string name="new_chat">محادثة جديدة</string>
+    <string name="previous_chats">المحادثات السابقة</string>
+    <string name="settings">الإعدادات والبيانات</string>
+    <string name="about">حول التطبيق</string>
+    <string name="greeting">مرحباً بك، مساعدك الذكي المناسب لكل ما تحتاج من المنهاج السوري. على ماذا نحب أن نركز؟</string>
+    <string name="hint_message">اكتب رسالتك هنا…</string>
+    <string name="send">إرسال</string>
+    <string name="attach">إرفاق</string>
+    <string name="mic">تسجيل صوتي</string>
+    <string name="recent">الأخيرة</string>
+    <string name="before_recent">قبل الأخيرة</string>
+</resources>
